@@ -12,4 +12,4 @@ Make sure
 
 ## Resources:
 - yt: https://www.youtube.com/watch?v=pwLtYvRK334
-- slides: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1oyTnBSanZ0Z3VRTTFGWG05dC1faDFadVdhZ3xBQ3Jtc0ttTGRJM3ZhQVcwU3pjWDNmbTM5Tk9XNzU0QUxqeUNMZEt3V3d0WWNYTkt2by1OaFpEVzBPeU93UGRVSkZxYWJBNFAtUDhYOVdiS1FiR1E0WHNvLU9aLVJXcncwX240MzBSWURkRDhVTlBPRTJLZi1mMA&q=https%3A%2F%2Fspeakerdeck.com%2Fbalkrishnarawool%2Fcontinuations-the-magic-behind-virtual-threads-spring-io&v=pwLtYvRK334
+- slides: https://speakerdeck.com/balkrishnarawool/continuations-the-magic-behind-virtual-threads-spring-io
